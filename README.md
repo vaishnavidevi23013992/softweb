@@ -700,16 +700,20 @@ conduct.html
 ```
 ## OUTPUT:
 ## FRONT PAGE:
-![77 1](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/e24b41d2-f8e9-4b08-a6c5-3935a6021e59)
+![V1](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/29b6acf6-e032-4a1b-bba6-5cccfcfbb99e)
+
 
 ## PRODUCT PAGE:
-![77 2](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/e5bdf437-1081-469d-bab7-1f77d829dff3)
+![V2](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/cff56024-2f6e-4d4c-ac71-95e6d8e7875b)
+
 
 ## PEOPLE PAGE:
-![77 3](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/fd35f0a2-c25a-45c1-b373-253177812995)
+
+![V3](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/34c9e2be-d6de-4afa-8473-1608c9edc9df)
 
 ## CONDUCT PAGE:
-![77 4](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/e3007a15-6d89-416d-aed1-db7cc947c71c)
+![V4](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/34dbd9e1-0975-4cdd-aed9-928f715f2d87)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
