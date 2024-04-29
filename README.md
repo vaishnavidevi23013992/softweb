@@ -169,7 +169,7 @@ home.html
       </div>
     </div>
     <footer>
-      <center>Designed and Developed by <b>VASIHNAVIDEVI V(212223040230)</b></center>
+      <center>Designed and Developed by <b>VAISHNAVIDEVI V(212223040230)</b></center>
     </footer>
   </body>
 </html>
@@ -363,7 +363,7 @@ product.html
     </div>
 </div>
 <footer>
-    <center>Designed and Developed by <b>VASIHNAVIDEVI(212223040230)</b></center>
+    <center>Designed and Developed by <b>VAISHNAVIDEVI(212223040230)</b></center>
 </footer>
 </body>
 </html>
@@ -533,7 +533,7 @@ html>
       </div>
     </div>
     <footer>
-      <center>Designed and Developed by <b>VASIHNAVIDEVI(212223040230)</b></center>
+      <center>Designed and Developed by <b>VAISHNAVIDEVI(212223040230)</b></center>
     </footer>
   </body>
 </html>
@@ -693,20 +693,24 @@ conduct.html
     </div>
 </div>
 <footer>
-    <center>Designed and Developed by <b>VASIHNAVIDEVI(212223040230)</b></center>
+    <center>Designed and Developed by <b>VAISHNAVIDEVI(212223040230)</b></center>
 </footer>
 </body>
 </html>
 ```
 ## OUTPUT:
 ## FRONT PAGE:
-![alt text](<vaishuu/softapp/migrations/7 (1).png>)
+![77 1](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/e24b41d2-f8e9-4b08-a6c5-3935a6021e59)
+
 ## PRODUCT PAGE:
-![alt text](<vaishuu/softapp/migrations/7 (2).png>)
+![77 2](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/e5bdf437-1081-469d-bab7-1f77d829dff3)
+
 ## PEOPLE PAGE:
-![alt text](vaishuu/softapp/migrations/EX7.3.png)
+![77 3](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/fd35f0a2-c25a-45c1-b373-253177812995)
+
 ## CONDUCT PAGE:
-![alt text](vaishuu/softapp/migrations/ex7.4.png)
+![77 4](https://github.com/vaishnavidevi23013992/softweb/assets/151864235/e3007a15-6d89-416d-aed1-db7cc947c71c)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
 
